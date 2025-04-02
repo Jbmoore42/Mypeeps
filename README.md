@@ -54,6 +54,8 @@ What I liked about Cursor: I feel that it was easy to create that app and add fe
 Challenges / Issues: I had major issues downloading firebase and implenting it and cloudinary into my app. I feel that the ai is not always the most helpful and that you have to refine the stuff it presents you with. I wish I knew more about coding and could fix the issues that I had with the app because there were times were I needed to ask for help because I could not fix it and nor could the bot.
 Overall, I enjoyed this project because, although it was challenging, I am satisfied with the results and I was able to learn more about coding. I also learned how to navigate and learn how to use Terminal. 
 
-YouTube link of the app in action:
-Link to app:
+YouTube link of the app in action: https://youtu.be/GLdK55xMsVI
+
+Link to app: https://mypeeps-l8aj.vercel.app/
+
 
