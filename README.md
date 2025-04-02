@@ -49,7 +49,11 @@ Response: I'll adjust the overlay opacity to make the background image appear li
 Prompt: make the image pop out more 
 Response: I'll adjust the overlay opacity to make the background image more visible and "pop" more. 
 Summary
-Final App Description: This app is Bibble discussion app that allows users to discuss verses from the bible and people can comment on them. There is a verse of the day and that people can discuss and comment on. This app gives user a platform for people to dissusses verses togther and the various features that I added helps them discuss these verses with each other.
-What I liked about Cursor: I feel that it was easy to create that app and add features once a got the hang of it. I feel that it is great platform to create simple apps without knowing how to code. I also think that if you really know what you are doing you can create amazing things
+Final App Description: This app is a Bibble discussion app that allows users to discuss verses from the bible, and people can comment on them. There is a verse of the day that people can discuss and comment on. This app gives users a platform for people to discuss verses together, and the various features that I added help them discuss these verses with each other.
+What I liked about Cursor: I feel that it was easy to create that app and add features once I got the hang of it. I feel that it is a great platform to create simple apps without knowing how to code. I also think that if you really know what you are doing, you can create amazing things
 Challenges / Issues: I had major issues downloading firebase and implenting it and cloudinary into my app. I feel that the ai is not always the most helpful and that you have to refine the stuff it presents you with. I wish I knew more about coding and could fix the issues that I had with the app because there were times were I needed to ask for help because I could not fix it and nor could the bot.
-Overall, I enjoyed this project because although it was challenging I am satisfied with the results and I was able to learn more about coding. I also learned how to navigate and learn how to use terminal. 
+Overall, I enjoyed this project because, although it was challenging, I am satisfied with the results and I was able to learn more about coding. I also learned how to navigate and learn how to use Terminal. 
+
+YouTube link of the app in action:
+Link to app:
+
