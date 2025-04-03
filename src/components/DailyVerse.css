@@ -1,0 +1,102 @@
+.daily-verse {
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 8px;
+  padding: 2rem;
+  margin: 2rem auto;
+  max-width: 800px;
+  box-shadow: 0 2px 15px rgba(139, 69, 19, 0.2);
+  border: 2px solid #8B4513;
+  position: relative;
+}
+
+.daily-verse h2 {
+  color: #8B4513;
+  font-family: 'Cinzel', Georgia, serif;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  font-size: 1.8rem;
+}
+
+.verse-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.verse-header h2 {
+  margin: 0;
+}
+
+.language-selector {
+  display: flex;
+  gap: 0.5rem;
+  padding: 0.5rem;
+  background-color: rgba(139, 69, 19, 0.1);
+  border-radius: 25px;
+}
+
+.language-button {
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+  padding: 0.3rem 0.5rem;
+  border-radius: 20px;
+  transition: all 0.2s ease;
+  opacity: 0.7;
+}
+
+.language-button:hover {
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+.language-button.active {
+  background-color: rgba(139, 69, 19, 0.2);
+  opacity: 1;
+}
+
+.verse-content {
+  background-color: rgba(249, 246, 241, 0.9);
+  padding: 2rem;
+  border-radius: 4px;
+  border-left: 4px solid #FFD700;
+  transition: all 0.3s ease;
+}
+
+.verse-text {
+  font-family: 'Crimson Text', Georgia, serif;
+  font-size: 1.3rem;
+  line-height: 1.6;
+  color: #2c1810;
+  margin-bottom: 1rem;
+  font-style: italic;
+  transition: all 0.3s ease;
+}
+
+.verse-reference {
+  font-family: 'Cinzel', Georgia, serif;
+  color: #8B4513;
+  text-align: right;
+  font-weight: bold;
+}
+
+.daily-verse::before,
+.daily-verse::after {
+  content: "✟";
+  position: absolute;
+  color: #FFD700;
+  font-size: 1.5rem;
+  opacity: 0.7;
+}
+
+.daily-verse::before {
+  top: 1rem;
+  left: 1rem;
+}
+
+.daily-verse::after {
+  bottom: 1rem;
+  right: 1rem;
+} 
